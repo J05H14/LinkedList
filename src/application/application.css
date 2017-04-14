@@ -1,0 +1,21 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.grid{
+	-fx-font-size: 100%;
+}
+.node{
+	-fx-background-color: orange;
+	-fx-text-fill: blue;
+	-fx-font-weight: bold;
+	-fx-border-style: solid;
+}
+.emptyNode{
+	-fx-background-color: white;
+}
+.labels{
+	-fx-text-fill: red;
+	-fx-font-weight: bold;
+	-fx-font-size: 150%;
+}
+.background{
+	-fx-background-color:aquamarine;
+}
